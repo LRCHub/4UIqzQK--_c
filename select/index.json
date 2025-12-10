@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リテラシー",
+  "base_artist": "wotaku",
+  "createdAt": "2025-12-10T17:42:37.912262Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リテラシー",
+      "artist": "wotaku, 梓川",
+      "has_synced": false,
+      "path": "select/pl_01_リテラシー_wotaku,_梓川.txt"
+    }
+  ]
+}
